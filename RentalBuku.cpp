@@ -1,3 +1,11 @@
+/* ======================================================================================
+Kodingan ini dibuat untuk menyelesaikan Ujian Tengah Praktikum Dasar-Dasar Pemrograman,
+yang dibuat oleh Kelompok 8 dengan anggota sebagai berikut : 
+1. Berli Anta Atrizki - 2217051076
+2. Daffa Rizqan Fairuz - 2217051066
+3. Nicholas Vitto Adrianto - 2217051024
+====================================================================================== */
+
 #include <iostream>
 int hargaTipis = 10000, hargaSedang = 15000, hargaTebal = 20000;
 using namespace std;
